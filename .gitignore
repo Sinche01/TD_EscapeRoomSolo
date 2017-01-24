@@ -60,3 +60,9 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+#ignoreStarterContent
+Content/StarterContent/*
+
+#IgnoneDATABASE
+*.VC.db
